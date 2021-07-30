@@ -1,7 +1,7 @@
 > ### Using Multiple DBs in Different apps
 Additional Requirements:
 * Router (for each database implement a router to route the queries respectively.)
-[application]()
+[application](https://github.com/sravanthi657/Django-practice/tree/main/DifferentDBs)
 
 
 > ### Using Multiple DBs in same Django app
@@ -28,4 +28,4 @@ Additional Requirements:
 * ```python manage.py migrate Blue 0002 --database=customer_db```
 
 * Yo done! check the databases..
-[application]()
+[application](https://github.com/sravanthi657/Django-practice/tree/main/sameAPP)
